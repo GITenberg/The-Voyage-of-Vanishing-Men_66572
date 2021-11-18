@@ -1,0 +1,39 @@
+_repo: The-Voyage-of-Vanishing-Men_66572
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Terry, W. E.
+    aliases:
+    - Terry, Willis E.
+    - Terry, Bill
+    birthdate: 1921
+    deathdate: 1992
+    gutenberg_agent_id: '34265'
+    url: http://www.gutenberg.org/2009/agents/34265
+creator:
+  author:
+    agent_name: Mullen, Stanley
+    birthdate: 1911
+    deathdate: 1974
+    gutenberg_agent_id: '35156'
+    url: http://www.gutenberg.org/2009/agents/35156
+    wikipedia: https://en.wikipedia.org/wiki/Stanley_Mullen
+description: ''
+gutenberg_issued: '2021-10-19'
+identifiers:
+  gutenberg: '66572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Outer space -- Exploration -- Fiction'
+- !lcsh 'Bars (Drinking establishments) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Storytelling -- Fiction'
+- GITenberg
+title: The Voyage of Vanishing Men
+url: http://www.gutenberg.org/ebooks/66572
