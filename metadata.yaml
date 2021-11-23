@@ -10,6 +10,9 @@ contributor:
     deathdate: 1992
     gutenberg_agent_id: '34265'
     url: http://www.gutenberg.org/2009/agents/34265
+covers:
+- cover_type: archival
+  image_path: 66572-h/images/cover.jpg
 creator:
   author:
     agent_name: Mullen, Stanley
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35156
     wikipedia: https://en.wikipedia.org/wiki/Stanley_Mullen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66572#The-Voyage-of-Vanishing-Men
 gutenberg_issued: '2021-10-19'
 identifiers:
   gutenberg: '66572'
